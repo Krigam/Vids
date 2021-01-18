@@ -8,8 +8,10 @@ Screenshots:
 Login
 ![Alt text](Screenshots/Login.PNG "Login")
 
+
 Register
 ![Alt text](Screenshots/Register.PNG "Register")
+
 
 Dashboard
 ![Alt text](Screenshots/Dashboard.PNG "Dashboard")
