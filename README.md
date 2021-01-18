@@ -6,4 +6,4 @@ To Setup MySQL Server you can import the SQL_dump.sql file.
 This is just for educational purpose. Feel free to learn from the Code.
 
 ![alt text](https://github.com/Krigam/Vids/blob/f82face/Screenshots/Login.png?raw=true)
-![Alt text](Screenshots/Login.png?raw=true "Title")
+![Alt text](Screenshots/Login.PNG "Title")
