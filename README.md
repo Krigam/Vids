@@ -6,12 +6,15 @@ This is just for educational purpose. Feel free to learn from the Code.
 Screenshots:
 
 Login
+
 ![Alt text](Screenshots/Login.PNG "Login")
 
 
 Register
+
 ![Alt text](Screenshots/Register.PNG "Register")
 
 
 Dashboard
+
 ![Alt text](Screenshots/Dashboard.PNG "Dashboard")
